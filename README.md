@@ -1,6 +1,5 @@
 - 👋 Hi, I’m amayl
 - 👀 I’m interested in ML, AI and maths
-- 🌱 I’m currently learning Calculus for Machine Learning and Data Science
 - 📫 How to reach me: Discord: amayl_
 
 <!---
